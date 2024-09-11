@@ -1,0 +1,25 @@
+/* src/WeatherApp.css */
+.fade-enter { opacity: 0; }
+.fade-enter-active { opacity: 1; transition: opacity 300ms ease-in; }
+.fade-exit { opacity: 1; }
+.fade-exit-active { opacity: 0; transition: opacity 300ms ease-in; }
+
+.weather-app {
+  --primary-bg: #f0f4f8;
+  --primary-text: #333;
+  --secondary-bg: #ffffff;
+  --accent-color: #4299e1;
+}
+
+.weather-app.dark-mode {
+  --primary-bg: #1a202c;
+  --primary-text: #f7fafc;
+  --secondary-bg: #2d3748;
+  --accent-color: #63b3ed;
+}
+
+@media (max-width: 640px) {
+  .weather-app {
+    padding: 1rem;
+  }
+}
