@@ -23,14 +23,18 @@ To set up the project locally, follow these steps:
 Clone the repository:
 
 bash
-Copy code
 git clone https://github.com/KingTroy125/weather-app.git
 Navigate into the project directory:
 
 bash
-Copy code
 cd weather-app
 Open the project in your browser: Simply open index.html to start using the app.
+
+Optional - Install dependencies (if applicable):
+
+bash
+npm install
+npm run start
 
 Optional - Run with a local server: You can use a local server for development (e.g., with Live Server in VSCode).
 
