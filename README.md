@@ -1,6 +1,10 @@
 # Weather App
 Welcome to the Weather App! This project is a simple yet functional weather forecasting application that allows users to get real-time weather information for any location. It's designed with a clean interface and provides accurate data on temperature, humidity, wind speed, and more.
 
+![538shots_so](https://github.com/user-attachments/assets/e4a9c054-7159-4ef6-a45f-db6750498d8a)
+![677shots_so](https://github.com/user-attachments/assets/80b1ed81-01e6-4ac8-9c80-63ac20d429ac)
+![188shots_so](https://github.com/user-attachments/assets/35557d30-f5f6-40ce-b2d2-d2359a1963d3)
+
 # Table of Contents
 Demo 
 Features
